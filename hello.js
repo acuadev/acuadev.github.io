@@ -115,6 +115,7 @@ Module.expectedDataFileDownloads++;
     function assert(check, msg) {
       if (!check) throw msg + new Error().stack;
     }
+Module['FS_createPath']('/', 'tests', true, true);
 
     function DataRequest(start, end, crunched, audio) {
       this.start = start;
@@ -194,7 +195,7 @@ Module.expectedDataFileDownloads++;
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 199, "filename": "/hello_world_file.txt"}], "remote_package_size": 199, "package_uuid": "15c4dc63-3657-41a6-8ee3-2a89e6a4a635"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 199, "filename": "/tests/hello_world_file.txt"}], "remote_package_size": 199, "package_uuid": "9a8863d3-14b5-4053-9848-0b47a1143bbe"});
 
 })();
 
