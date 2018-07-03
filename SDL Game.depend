@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1490819783 source:\\acuaw000030\c$\users\jthompson\documents\c\sdl game\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<stdbool.h>
+	<time.h>
+	"Timer.h"
+	<stdlib.h>
+
+1530625689 source:c:\users\jthompson\documents\c\sdl game\main.c
+	<GL/glew.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2_image/SDL_image.h>
+	<SDL2_ttf/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<stdbool.h>
+	<time.h>
+	"Timer.h"
+	<stdlib.h>
+	"tinyc2.h"
+	"Entity.h"
+
+1504017103 c:\users\jthompson\documents\c\sdl game\timer.h
+
+1504017103 source:c:\users\jthompson\documents\c\sdl game\timer.c
+	<stdbool.h>
+	"Timer.h"
+	<SDL2/SDL.h>
+
+1490732030 \\acuaw000030\c$\users\jthompson\documents\c\sdl game\timer.h
+
+1490732030 source:\\acuaw000030\c$\users\jthompson\documents\c\sdl game\timer.c
+	<stdbool.h>
+	"Timer.h"
+	<SDL2/SDL.h>
+
+1507909504 c:\users\jthompson\documents\c\sdl game\tinyc2.h
+	<string.h>
+	<math.h>
+	<float.h>
+
+1507920081 source:c:\users\jthompson\documents\c\sdl game\entity.c
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2_image/SDL_image.h>
+	<SDL2_ttf/SDL_ttf.h>
+	"tinyc2.h"
+	"Timer.h"
+	"Entity.h"
+
+1504017103 c:\users\jthompson\documents\c\sdl game\entity.h
+
+1507920081 source:c:\users\jthompson\documents\c\sdl game - copy\entity.c
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2_image/SDL_image.h>
+	<SDL2_ttf/SDL_ttf.h>
+	"tinyc2.h"
+	"Timer.h"
+	"Entity.h"
+
+1507909504 c:\users\jthompson\documents\c\sdl game - copy\tinyc2.h
+	<string.h>
+	<math.h>
+	<float.h>
+
+1504017103 c:\users\jthompson\documents\c\sdl game - copy\timer.h
+
+1504017103 c:\users\jthompson\documents\c\sdl game - copy\entity.h
+
+1530625732 source:c:\users\jthompson\documents\c\sdl game - copy\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2_image/SDL_image.h>
+	<SDL2_ttf/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<stdbool.h>
+	<time.h>
+	"Timer.h"
+	<stdlib.h>
+	"tinyc2.h"
+	"Entity.h"
+
+1504017103 source:c:\users\jthompson\documents\c\sdl game - copy\timer.c
+	<stdbool.h>
+	"Timer.h"
+	<SDL2/SDL.h>
+
+1507920081 source:c:\emsdk\emsdk\emscripten\1.38.6\sdl game - copy\entity.c
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2_image/SDL_image.h>
+	<SDL2_ttf/SDL_ttf.h>
+	"tinyc2.h"
+	"Timer.h"
+	"Entity.h"
+
+1507909504 c:\emsdk\emsdk\emscripten\1.38.6\sdl game - copy\tinyc2.h
+	<string.h>
+	<math.h>
+	<float.h>
+
+1504017103 c:\emsdk\emsdk\emscripten\1.38.6\sdl game - copy\timer.h
+
+1504017103 c:\emsdk\emsdk\emscripten\1.38.6\sdl game - copy\entity.h
+
+1530625893 source:c:\emsdk\emsdk\emscripten\1.38.6\sdl game - copy\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2_image/SDL_image.h>
+	<SDL2_ttf/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<stdbool.h>
+	<time.h>
+	"Timer.h"
+	<stdlib.h>
+	"tinyc2.h"
+	"Entity.h"
+
+1504017103 source:c:\emsdk\emsdk\emscripten\1.38.6\sdl game - copy\timer.c
+	<stdbool.h>
+	"Timer.h"
+	<SDL2/SDL.h>
+
